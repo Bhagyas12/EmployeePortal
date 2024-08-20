@@ -1,0 +1,31 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "empUsername": "Admin",
+      "empEmail": "admin@gmail.com",
+      "password": "Admin123",
+      "empStatus": "1",
+      "profile": "https://png.pngtree.com/png-clipart/20231210/original/pngtree-business-girl-avatar-cartoon-png-image_13810300.png",
+      "EmpUsername": "Navya"
+    },
+    {
+      "empUsername": "Reshma",
+      "empEmail": "reshma@gmail.com",
+      "empStatus": "1",
+      "id": 2
+    },
+    {
+      "empUsername": "Sreelekshmi",
+      "empEmail": "sree@gmail.com",
+      "empStatus": "1",
+      "id": 3
+    },
+    {
+      "empUsername": "Navya",
+      "empEmail": "navya@gmail.com",
+      "empStatus": "2",
+      "id": 4
+    }
+  ]
+}
